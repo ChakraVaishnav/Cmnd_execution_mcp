@@ -7,11 +7,15 @@ You don't have to run it all the time on your local claude will run it when ever
 
 # Config in Claude
 
+
 "mcpServers": {
+
     "cmnd_execution_server": {
       "command": "YOUR_PYTHON_PATH",
       "args": [
+      
         "PATH_IN_YOUR_LOCAL_OF_THAT_CLONED_CODE_FILE_LOCATION"
+        
       ]
     }
   },
